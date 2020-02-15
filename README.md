@@ -8,4 +8,4 @@
 * 根据 Topics.md 文件在Done文件夹中建立了子目录用于分类
 * ToDo 中的资料每次读完，就放入对应的 Done 中的子文件夹
 
-### $Repo \rightarrow ToDo \rightarrow Done$
+### Repo → ToDo → Done
